@@ -1,3 +1,7 @@
+# DEPRECATED - DO NOT USE
+
+**This was a temporary fork that is no longer used or maintained.**
+
 # Fourmolu action
 
 ![CI](https://github.com/fourmolu/fourmolu-action/workflows/CI/badge.svg?branch=master)
